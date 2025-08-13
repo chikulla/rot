@@ -1,3 +1,3 @@
-# rot the tor configuration
+# rot
 
-docker composed tor server which refreshies client IP every 10 sec
+A Docker-Compose proxy that regularly refreshes the client IP.
